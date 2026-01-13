@@ -106,3 +106,9 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+Name: Keagan Cress
+
+Comments: Being a first time user of these tools, I find it pretty cool how they are all interconnected
+
+Reflection: I learned how to install Git, setup a GitHub account and clone a repository, while also installing VSC in order to edit this readme file.
